@@ -1,6 +1,0 @@
-git config user.email "shawky830@gmail.com"
-git config user.name "forcoding20"
-git add .
-git commit -m 'working directory'
-git push
-ْ}
